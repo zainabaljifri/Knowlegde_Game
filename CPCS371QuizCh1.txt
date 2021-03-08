@@ -1,0 +1,20 @@
+What of the following physical media is considered unguided media? A. fiber-optic B. twisted-pair C. coax D. satellite 
+D
+When transferring a file of 32MB over three links with transmission rates R1=5, R2=15, R3=10. Determine the throughput of the connection: A. 32/15 B. 15 C. 32/5 D. 5
+D
+Two fundamental approaches for network core are: A. Host and packet B. Packet switching and circuit switching C. Store and forward D. Routing and forwarding
+B
+What layer of the following isn’t in the TCP/IP model: A. Presentation B. Application C. Transport D. Network
+A
+The time required to examine the packet's header and determine where to direct the packet is part of: A. queueing delay B. processing delay C. transmission delay   D. propagation delay
+B
+Google is considered a:  A. Tier-1 ISP B. Content Provider C. IXP D. All of the above
+B
+a transport layer packet is referred to as: A. segment B. message C. Datagram D. frame
+A
+Company network considered as: A. Residential access net B. Mobile access networks C. Institutional access networks D. All of the above
+C
+If Alice can send packets with false source address, what type of attacks is this? A. DoS/DDoS B. Packet sniffing C. IP spoofing D. MitM
+C
+Data transfer between neighboring network elements:  A. Network layer B. link layer C. Physical layer D. Transport layer
+A
